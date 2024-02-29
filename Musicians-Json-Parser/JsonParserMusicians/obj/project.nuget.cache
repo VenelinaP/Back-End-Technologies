@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OjqSdImsE/idRrnH+Vq5aI4hdFoVLSgb4gk0LzNHMLg/mUV99tzkmqKpdr4trs7flYz64sA0JEL8J3FIIaF4Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Venelina\\Desktop\\1-Musicians-Json-Parser\\JsonParserMusicians\\JsonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
