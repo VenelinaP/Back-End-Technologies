@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+yyhSn1YBip6NvvTOatlBImWvrSGr65j4fQ3aCqsU5hwPitt7apLrk9z11evHhaG13dGfndcV/WRORuI+7O6vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Venelina\\Desktop\\01-Lost-Interstellar-Crew-Records-Json-Parser\\JsonParserAustronauts\\JsonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Venelina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
