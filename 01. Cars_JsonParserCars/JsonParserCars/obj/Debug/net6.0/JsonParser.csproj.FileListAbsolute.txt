@@ -1,0 +1,15 @@
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\bin\Debug\net6.0\JsonParser.exe
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\bin\Debug\net6.0\Datasets\Cars.json
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\bin\Debug\net6.0\JsonParser.dll
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\JsonParser.dll
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\Venelina\Desktop\01. Cars_JsonParserCars\JsonParserCars\obj\Debug\net6.0\ref\JsonParser.dll

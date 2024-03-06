@@ -1,0 +1,59 @@
+
+[
+    {
+      "model_id": 501,
+      "name": "Tesla Model 3",
+      "year_manufacture": 2020,
+      "fuel_efficiency": 130.1,
+      "fuel_efficiency_unit": "MPGe",
+      "features": [ "Autopilot", "All-Electric", "Touchscreen Display" ]
+    },
+    {
+      "model_id": 502,
+      "name": "Honda Civic Type R",
+      "year_manufacture": 2021,
+      "fuel_efficiency": 28.2,
+      "fuel_efficiency_unit": "MPG",
+      "features": [ "Turbocharged Engine", "Sport Seats", "Adaptive Suspension" ]
+    },
+    {
+      "model_id": 503,
+      "name": "Ford F-150",
+      "year_manufacture": 2021,
+      "fuel_efficiency": 24.3,
+      "fuel_efficiency_unit": "MPG",
+      "features": [ "Hybrid Powertrain", "Pro Trailer Backup Assist", "Touchscreen Interface" ]
+    },
+    {
+      "model_id": 504,
+      "name": "Porsche 718 Boxster",
+      "year_manufacture": 2021,
+      "fuel_efficiency": 22.4,
+      "fuel_efficiency_unit": "MPG",
+      "features": [ "Mid-Engine Layout", "Convertible Top", "Porsche Communication Management" ]
+    },
+    {
+      "model_id": 505,
+      "name": "Chevrolet Corvette",
+      "year_manufacture": 2020,
+      "fuel_efficiency": 19.5,
+      "fuel_efficiency_unit": "MPG",
+      "features": [ "Mid-Engine Design", "Leather Seating", "Performance Data Recorder" ]
+    },
+    {
+      "model_id": 506,
+      "name": "BMW 330i",
+      "year_manufacture": 2021,
+      "fuel_efficiency": 30.6,
+      "fuel_efficiency_unit": "MPG",
+      "features": [ "TwinPower Turbo Engine", "iDrive System", "Dynamic Cruise Control" ]
+    },
+    {
+      "model_id": 507,
+      "name": "Mazda MX-5 Miata",
+      "year_manufacture": 2021,
+      "fuel_efficiency": 29.7,
+      "fuel_efficiency_unit": "MPG",
+      "features": [ "Rear-Wheel Drive", "Soft Top", "Lane Departure Warning System" ]
+    }
+  ]
